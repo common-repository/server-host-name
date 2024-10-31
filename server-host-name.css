@@ -1,0 +1,5 @@
+#wp-admin-bar-wsHostname .ab-empty-item {
+    cursor: default;
+    outline: 0;
+    color: #47d147!important;
+}
